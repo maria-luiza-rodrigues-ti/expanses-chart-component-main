@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,700&display=swap");
+
+:root {
+  /* Colors */
+  --soft-red: hsl(10, 79%, 65%);
+  --cyan: hsl(186, 34%, 60%);
+  --dark-brown: hsl(25, 47%, 15%);
+  --medium-brown: hsl(28, 10%, 53%);
+  --cream: hsl(27, 66%, 92%);
+  --very-pale-orange: hsl(33, 100%, 98%);
+
+  /* Font-weight */
+  --regular: 400;
+  --bold: 700;
+
+  /* Font-family */
+  --main-family: "DM Sans", sans-serif;
+}
