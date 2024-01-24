@@ -81,7 +81,7 @@ body {
   margin-bottom: 8px;
   padding: 8px 9px;
   text-align: center;
-  font-size: 18px;
+  font-size: 15px;
   color: var(--very-pale-orange);
   font-weight: var(--bold);
   background: var(--dark-brown);
@@ -89,7 +89,6 @@ body {
 }
 
 .bar {
-  height: 50px;
   width: 100%;
   background: var(--soft-red);
   border-radius: 3px;
