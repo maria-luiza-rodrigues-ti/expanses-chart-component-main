@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/maria-luiza-rodrigues-ti/expanses-chart-component-main](https://github.com/maria-luiza-rodrigues-ti/expanses-chart-component-main)
+- Live Site URL: [https://expanses-chart-component-main.vercel.app](https://expanses-chart-component-main.vercel.app)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [https://github.com/maria-luiza-rodrigues-ti](https://github.com/maria-luiza-rodrigues-ti)
+- Frontend Mentor - [@maria-luiza-rodrigues-ti](https://www.frontendmentor.io/profile/maria-luiza-rodrigues-ti)
